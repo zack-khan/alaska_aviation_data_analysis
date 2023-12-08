@@ -1,0 +1,6 @@
+*.csv
+*.xlsx
+*.xls
+/CS122023
+/.vscode
+/FAA survey GA stats
